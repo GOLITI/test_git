@@ -1,1 +1,2 @@
 fonctionnalite 1
+fonctionnalite 2
