@@ -4,3 +4,5 @@ fonctionnalite 3
 fonctionnalite 4
 fonctionnalite 5
 fonctionnalite 6
+fonctionnalite 7
+>>>>>>> 1f05ac1 (ajout fonctionnalite 7)
