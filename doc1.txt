@@ -3,3 +3,4 @@ fonctionnalite 2
 fonctionnalite 3
 fonctionnalite 4
 fonctionnalite 5
+fonctionnalite 6
